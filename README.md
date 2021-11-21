@@ -1,21 +1,4 @@
-# Data Viewer
-
-- Please run main.py to start this project
-
-### Packages
-
-The following packages are required:
-
-- Tkinter
-- Matplotlib
-- Numpy
-- Scipy
-
-To install please use pip,  `` pip install (package name)``
-
-### Full documentation is attached to this repository. 
-
-<hr/>
+# Data Viewer 
 
 #### Objective
 
