@@ -6,19 +6,19 @@ I created this multiuser application to provide users with a way of viewing stat
 
 #### Login
 
-<img src="https://raw.githubusercontent.com/travisbyr/SDV602-Milestone-3/main/documentation-images/login.PNG?token=AOUNHPKPWC47SVHK6WV4AD3BUAV52" width="500"/>
+<img src="https://raw.githubusercontent.com/travisbyr/Data-Viewer/main/documentation-images/login.PNG" width="500"/>
 
 Before a user can access the application, they must login. When a user logs in, their credentials are checked against the JSON object login table in the database, using a MySQL style GET method URL. This database allows me to retrieve and store data using MySQL command styled GET methods. This remote storage database solution allows me to create tables, fields and records. 
 
 #### Registration
 
-<img src="https://raw.githubusercontent.com/travisbyr/SDV602-Milestone-3/main/documentation-images/register.PNG?token=AOUNHPKVPAAKYTNKLNHEXULBUAWFM" width="500"/>
+<img src="https://raw.githubusercontent.com/travisbyr/Data-Viewer/main/documentation-images/register.PNG" width="500"/>
 
 If a user wishes to create an account, they can register for one. Once a user submits their registration details, the details are checked against the JSON Object login table of the database.
 
 #### Application
 
-<img src="https://raw.githubusercontent.com/travisbyr/SDV602-Milestone-3/main/documentation-images/graph.PNG?token=AOUNHPJSSS3W6LSCOITCEMLBUAV26" width="600"/>
+<img src="https://raw.githubusercontent.com/travisbyr/Data-Viewer/main/documentation-images/graph.PNG" width="600"/>
 
 Here users are provided with full access of the database. Users have the following features:
 
